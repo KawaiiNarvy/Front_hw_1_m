@@ -1,0 +1,19 @@
+.blue {
+    color: #0021F5;
+}
+.red {
+    color: #EB3223;
+}
+div {
+    line-height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    text-align: center;
+}
+p {
+    text-indent: 50px;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
